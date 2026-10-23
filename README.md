@@ -4,10 +4,15 @@ Steam Starting without window
 
 
 close steam with task manager
+
 open cmd as admin 
+
 copy paste the command 
+
 change the location to your STEAM ROOT FOLDER
+
 now it should open normaly 
+
 
 
 for %D in (bin clientui resource package public tenfoot depotcache) do (
