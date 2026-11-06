@@ -9,7 +9,7 @@ open cmd as admin
 
 copy paste the command 
 
-change the location to your STEAM ROOT FOLDER
+change the location to your STEAM ROOT FOLDER in the following command
 
 now it should open normaly 
 
